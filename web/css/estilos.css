@@ -1,0 +1,23 @@
+
+
+body{
+    padding-top: 50px;
+}
+
+.row-centered{
+    text-align: center;
+}
+.col-centered{
+    display: inline-block;
+    float: none;
+    text-align: center;
+    margin-right: -4px;
+}
+
+.botao{
+    margin-left: 200px;
+}
+
+.titulo_formulario{
+    margin-left: 200px;
+}
